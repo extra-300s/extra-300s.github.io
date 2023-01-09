@@ -14,6 +14,12 @@
 .layout>#post{
     background: rgba(255,255,255,.8);
 }
-.layout > div:first-child:not(.recent-posts){
-    background: rgba(255,255,255,.8);
+/*分类页面*/
+.layout>#page{
+    
+    background: rgba(255,255,255,.6);
+}
+/*时间轴页面*/
+.layout>#archive{
+    background: rgba(255,255,255,.6);
 }
