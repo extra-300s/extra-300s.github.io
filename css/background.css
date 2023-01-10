@@ -1,25 +1,25 @@
 /*主页文章栏*/
 #recent-posts>.recent-post-item{
     /* 以下代表透明度为0.5 */
-    background: rgba(255,255,255,.7);
+    background: rgba(255,255,255,.75);
 }
 /*侧边栏页面*/
 #aside-content>.card-widget  {
-    background: rgba(255,255,255,.6);
+    background: rgba(255,255,255,.65);
 }
 #aside-content>.sticky_layout>.card-widget{
-    background: rgba(255,255,255,.6);
+    background: rgba(255,255,255,.65);
 }
 /*文章页面*/
 .layout>#post{
-    background: rgba(255,255,255,.8);
+    background: rgba(255,255,255,.85);
 }
 /*分类页面*/
 .layout>#page{
     
-    background: rgba(255,255,255,.6);
+    background: rgba(255,255,255,.7);
 }
 /*时间轴页面*/
 .layout>#archive{
-    background: rgba(255,255,255,.6);
+    background: rgba(255,255,255,.7);
 }
