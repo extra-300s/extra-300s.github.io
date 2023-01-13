@@ -1,6 +1,6 @@
 .aplayer-lrc p{font-size:12px;font-weight:700;line-height:16px!important}.aplayer .aplayer-lrc p.aplayer-lrc-current{color:#49b1f5;font-size:15px}
 
-/*修改插件整体背景*/
+/*修改整体背景*/
 .aplayer.aplayer-fixed {
     background: rgba(255,255,255,0.6);
     /*backdrop-filter: blur(10px);*/
