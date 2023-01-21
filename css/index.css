@@ -3195,8 +3195,8 @@ h1.page-title + .tag-cloud-list {
 }
 #footer {
   position: relative;
-  background: #49b1f5;
-  background-attachment: local;
+  background-color: #49b1f5;
+  background-attachment: scroll;
   background-position: bottom;
   background-size: cover;
 }
@@ -3208,14 +3208,10 @@ h1.page-title + .tag-cloud-list {
   content: '';
 }
 #footer-wrap {
-  position: absolute;
-  padding: 1.2rem 1rem 1.4rem;
+  position: relative;
+  padding: 40px 20px;
   color: var(--light-grey);
   text-align: center;
-  left: 0;
-  right: 0;
-  top: 0;
-  bottom: 0;
 }
 #footer-wrap a {
   color: var(--light-grey);
@@ -3224,13 +3220,13 @@ h1.page-title + .tag-cloud-list {
   text-decoration: underline;
 }
 #footer-wrap .footer-separator {
-  margin: 0 0.2rem;
+  margin: 0 4px;
 }
 #footer-wrap .icp-icon {
   padding: 0 4px;
-  vertical-align: text-bottom;
   max-height: 1.4em;
   width: auto;
+  vertical-align: text-bottom;
 }
 #page-header {
   position: relative;
