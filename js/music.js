@@ -1,6 +1,6 @@
 const ap = new APlayer({
     container: document.getElementById('player'),   //播放器HTML容器元素
-    fixed: true
+    fixed: true,
     mini: false,        //迷你模式开关
     autoplay: true,    //自动播放开关（Chromium现已禁止自动播放）
     //theme: '#FADFA3',   //主题色
