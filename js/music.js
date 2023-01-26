@@ -15,7 +15,7 @@ const ap = new APlayer({
         {
             name: '青春コンプレックス',          //音频名称
             artist: '結束バンド',      //音频艺术家
-            url: 'https://dl.stream.qqmusic.qq.com/C400002l2olz0rL0qW.m4a?guid=1407994956&vkey=5D0954CD48777F1E1FCB19D130905378E057EC7B01C428FE335B23D65091DCB1A8C21CD357D869A1FDF79AA0AE4E09D14C2DCF680D78F5C3&uin=1446457778&fromtag=120032',        //音频外链
+            url: 'https://lo-sycdn.kuwo.cn/e59aca61855dbeeb8568be278d86a8f8/63d27ba4/resource/n1/58/92/2566710074.mp3',        //音频外链
             cover: '//y.qq.com/music/photo_new/T002R300x300M0000011oG6M1EZ3K0_1.jpg',    //音频封面
             lrc: '',        //音频歌词，配合上面的lrcType使用
             theme: ''        //切换到此音频时的主题色，比上面的 theme 优先级高
